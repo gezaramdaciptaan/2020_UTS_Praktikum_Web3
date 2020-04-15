@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/2020_UTS_Praktikum_Web3/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/2020_UTS_Praktikum_Web3/static/js/main.a013e449.chunk.js",
+    "main.js.map": "/2020_UTS_Praktikum_Web3/static/js/main.a013e449.chunk.js.map",
+    "runtime-main.js": "/2020_UTS_Praktikum_Web3/static/js/runtime-main.232dbab8.js",
+    "runtime-main.js.map": "/2020_UTS_Praktikum_Web3/static/js/runtime-main.232dbab8.js.map",
+    "static/css/2.69121389.chunk.css": "/2020_UTS_Praktikum_Web3/static/css/2.69121389.chunk.css",
+    "static/js/2.2c5c46bd.chunk.js": "/2020_UTS_Praktikum_Web3/static/js/2.2c5c46bd.chunk.js",
+    "static/js/2.2c5c46bd.chunk.js.map": "/2020_UTS_Praktikum_Web3/static/js/2.2c5c46bd.chunk.js.map",
+    "index.html": "/2020_UTS_Praktikum_Web3/index.html",
+    "precache-manifest.75348200c9d22e1988f229c58e256c16.js": "/2020_UTS_Praktikum_Web3/precache-manifest.75348200c9d22e1988f229c58e256c16.js",
+    "service-worker.js": "/2020_UTS_Praktikum_Web3/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/2020_UTS_Praktikum_Web3/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/2020_UTS_Praktikum_Web3/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2c5c46bd.chunk.js.LICENSE.txt": "/2020_UTS_Praktikum_Web3/static/js/2.2c5c46bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.232dbab8.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.2c5c46bd.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a013e449.chunk.js"
+  ]
+}
